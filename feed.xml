@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-02 08:15">
+<yml_catalog date="2026-09-02 15:41">
   <shop>
     <name>Savent</name>
     <company>Savent</company>
@@ -1787,7 +1787,7 @@
         <param name="Вага, г">1320</param>
         <param name="Країна-виробник">Україна</param>
       </offer>
-      <offer id="33" available="false">
+      <offer id="33" available="true">
         <url>https://savent.ua/ghnuchki-ruchky-dlia-chyshchennia/ruchka-kolovorot-dlia-chyshchennia-dymokhodu-savent-/</url>
         <price>295</price>
         <currencyId>UAH</currencyId>
