@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-22 09:02">
+<yml_catalog date="2026-10-22 16:21">
   <shop>
     <name>Savent</name>
     <company>Savent</company>
@@ -2053,18 +2053,18 @@
         <price>2452</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/35/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/35/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/35/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>99487</vendorCode>
         <name>Роторний набір для чищення димоходів 4 м Savent TURBO</name>
@@ -2081,18 +2081,18 @@
         <price>2791</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/36/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/36/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/36/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>99488</vendorCode>
         <name>Роторний набір для чищення димоходів 5 м Savent TURBO</name>
@@ -2109,18 +2109,18 @@
         <price>3130</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/37/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/37/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/37/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>96327</vendorCode>
         <name>Роторний набір для чищення димоходів 6 м Savent TURBO</name>
@@ -2137,18 +2137,18 @@
         <price>3469</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/38/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/38/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/38/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>99489</vendorCode>
         <name>Роторний набір для чищення димоходів 7 м Savent TURBO</name>
@@ -2165,18 +2165,18 @@
         <price>3808</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/39/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/39/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/39/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>99490</vendorCode>
         <name>Роторний набір для чищення димоходів 8 м Savent TURBO</name>
@@ -2193,18 +2193,18 @@
         <price>4147</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/40/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/40/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/40/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>99492</vendorCode>
         <name>Роторний набір для чищення димоходів 9 м Savent TURBO</name>
@@ -2221,18 +2221,18 @@
         <price>4486</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/41/1_img_4228_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/2_img_4221_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/3_img_9682_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/4_img_9816_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/5_2.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/6_1.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/7_img_9657_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/8_img_9746_1_.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/9_img_9703_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/10_img_9782_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/11_img_9777_copy.webp</picture>
-        <picture>https://savent.ua/upload/catalog/100/41/12_20190530_102409_31.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/1_img_4228.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/2_img_4218.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/3_img_9682.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/4_img_9816.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/5_img_9636.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/6_img_9622.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/7_img_9657.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/8_img_9746.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/9_img_9703.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/10_img_9782.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/11_img_9777.webp</picture>
+        <picture>https://savent.ua/upload/catalog/100/41/12_102409.webp</picture>
         <vendor>Savent</vendor>
         <vendorCode>99491</vendorCode>
         <name>Роторний набір для чищення димоходів 10 м Savent TURBO</name>
