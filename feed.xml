@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-31 03:26">
+<yml_catalog date="2026-10-31 10:03">
   <shop>
     <name>Savent</name>
     <company>Savent</company>
@@ -2301,7 +2301,7 @@
       </offer>
       <offer id="59" available="true">
         <url>https://savent.ua/rotorna-chystka-dymokhodiv/neilonova-shchetyna-vors-dlia-shchitky-do-rotornoho-naboru-savent-turbo/</url>
-        <price>164</price>
+        <price>165</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://savent.ua/upload/catalog/100/59/sava5497_i.webp</picture>
