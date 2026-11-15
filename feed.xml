@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-15 03:58">
+<yml_catalog date="2026-11-15 11:46">
   <shop>
     <name>Savent</name>
     <company>Savent</company>
@@ -2589,7 +2589,7 @@
         <picture>https://savent.ua/upload/catalog/100/71/4_i.webp?v=1794643240</picture>
         <picture>https://savent.ua/upload/catalog/100/71/5_i.webp?v=1794643240</picture>
         <picture>https://savent.ua/upload/catalog/100/71/6_i.webp?v=1794643240</picture>
-        <picture>https://savent.ua/upload/catalog/100/71/1500mm.webp?v=1794643240</picture>
+        <picture>https://savent.ua/upload/catalog/100/71/1500mm.webp?v=1794736839</picture>
         <vendor>Savent</vendor>
         <vendorCode>105314</vendorCode>
         <name>Ручка сталева для чищення теплообмінника Savent 1,5 м</name>
