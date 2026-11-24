@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-24 04:31">
+<yml_catalog date="2026-11-24 19:13">
   <shop>
     <name>Savent</name>
     <company>Savent</company>
@@ -313,37 +313,6 @@
         <param name="Довжина, мм">180</param>
         <param name="Вага, г">174</param>
         <param name="Країна-виробник">Україна</param>
-      </offer>
-      <offer id="101" available="true">
-        <url>https://savent.ua/shchitky-dlia-chyshchennia-dymokhodiv-ta-teploobminnykiv/shchitka-metaleva-dlia-chyshchennia-teploobminnyka-ecodym-30-mm/</url>
-        <price>95</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_1.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_2.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_3.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_4.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_5.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_61.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/s_ecodym_metal_50_7.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_1.webp?v=1794643268</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_2.webp?v=1794643268</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_3.webp?v=1794643269</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_4.webp?v=1794643269</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_5.webp?v=1794643269</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_61.webp?v=1794643270</picture>
-        <picture>https://savent.ua/upload/catalog/200/101/ecodym_metal_50_7.webp?v=1794643269</picture>
-        <vendor>Savent</vendor>
-        <vendorCode>111942</vendorCode>
-        <name>Щітка металева для чищення теплообмінника Ecodym 30 мм</name>
-        <name_ua>Щітка металева для чищення теплообмінника Ecodym 30 мм</name_ua>
-        <description><![CDATA[<p style="text-align: justify;">   Під час експлуатації твердопаливних котлів, камінів і печей на стінках камери згоряння та теплообмінника поступово накопичуються сажа, смола та інші відкладення. Такі забруднення призводять до зниження ефективності роботи опалювальних приладів і збільшення витрати палива. Регулярне очищення теплообмінника допомагає запобігти цим проблемам.</p><p style="text-align: justify;">   <strong>Щітка металева для чищення теплообмінника Ecodym 30 мм</strong> призначена для ефективного видалення будь-яких відкладень зі стінок теплообмінників опалювальних приладів. Щетина щітки виготовлена з пружинного дроту, загартованого в маслі, діаметром 0,35 мм, який міцно затиснутий між двома оцинкованими прутами діаметром 3,8 мм. Щітка має різьбу М12 для кріплення до гнучкої ручки.</p>]]></description>
-        <description_ua><![CDATA[<p style="text-align: justify;">   Під час експлуатації твердопаливних котлів, камінів і печей на стінках камери згоряння та теплообмінника поступово накопичуються сажа, смола та інші відкладення. Такі забруднення призводять до зниження ефективності роботи опалювальних приладів і збільшення витрати палива. Регулярне очищення теплообмінника допомагає запобігти цим проблемам.</p><p style="text-align: justify;">   <strong>Щітка металева для чищення теплообмінника Ecodym 30 мм</strong> призначена для ефективного видалення будь-яких відкладень зі стінок теплообмінників опалювальних приладів. Щетина щітки виготовлена з пружинного дроту, загартованого в маслі, діаметром 0,35 мм, який міцно затиснутий між двома оцинкованими прутами діаметром 3,8 мм. Щітка має різьбу М12 для кріплення до гнучкої ручки.</p>]]></description_ua>
-        <param name="Матеріал">метал</param>
-        <param name="Діаметр, мм">30</param>
-        <param name="Довжина, мм">170</param>
-        <param name="Вага, г">78</param>
-        <param name="Товщина сталі, мм">0,35</param>
       </offer>
       <offer id="102" available="true">
         <url>https://savent.ua/shchitky-dlia-chyshchennia-dymokhodiv-ta-teploobminnykiv/shchitka-metaleva-dlia-chyshchennia-teploobminnyka-ecodym-40-mm/</url>
@@ -967,37 +936,6 @@
         <param name="Вага, г">186</param>
         <param name="Країна-виробник">Україна</param>
       </offer>
-      <offer id="120" available="true">
-        <url>https://savent.ua/shchitky-dlia-chyshchennia-dymokhodiv-ta-teploobminnykiv/shchitka-plastykova-dlia-chyshchennia-dymokhodu-ecodym-130-mm/</url>
-        <price>136</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_1.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_2.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_3.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_41.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_5.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_6.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/s_ecodym_plastyk_100_7.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_1.webp?v=1794643279</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_2.webp?v=1794643279</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_3.webp?v=1794643279</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_41.webp?v=1794643279</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_5.webp?v=1794643279</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_6.webp?v=1794643279</picture>
-        <picture>https://savent.ua/upload/catalog/200/120/ecodym_plastyk_100_7.webp?v=1794643279</picture>
-        <vendor>Savent</vendor>
-        <vendorCode>111961</vendorCode>
-        <name>Щітка пластикова для чищення димоходу Ecodym 130 мм</name>
-        <name_ua>Щітка пластикова для чищення димоходу Ecodym 130 мм</name_ua>
-        <description><![CDATA[<p style="text-align: justify;">   Під час експлуатації твердопаливних котлів, камінів і печей на стінках димоходу та камери згоряння поступово накопичуються сажа, смола та інші відкладення. Такі забруднення знижують тягу, ефективність роботи опалювальних приладів, можуть спричинити займання сажі або потрапляння чадного газу в приміщення. Регулярна перевірка тяги, ступеня забруднення та своєчасне очищення димоходу допоможуть уникнути цих небезпечних ситуацій.</p><p style="text-align: justify;">  <strong> Щітка пластикова Ecodym 130 мм</strong> призначена для ефективного очищення внутрішніх стінок димохідних труб від сажі, смоли та інших відкладень. Підходить для чищення димоходів будь-якого типу — як цегляних, так і з нержавіючої сталі. Щітка виготовлена ​​з високоякісного пластику, ворс має овальний перетин 1,8 х 2,4 мм, який затиснутий між чотирма оцинкованими прутами діаметром 3 мм. На одному кінці щітка має різьбу М12, на іншому – кільце для кріплення троса або мотузки. Щітка може використовуватися як із гнучкими ручками, так і у варіанті з гирею.</p>]]></description>
-        <description_ua><![CDATA[<p style="text-align: justify;">   Під час експлуатації твердопаливних котлів, камінів і печей на стінках димоходу та камери згоряння поступово накопичуються сажа, смола та інші відкладення. Такі забруднення знижують тягу, ефективність роботи опалювальних приладів, можуть спричинити займання сажі або потрапляння чадного газу в приміщення. Регулярна перевірка тяги, ступеня забруднення та своєчасне очищення димоходу допоможуть уникнути цих небезпечних ситуацій.</p><p style="text-align: justify;">  <strong> Щітка пластикова Ecodym 130 мм</strong> призначена для ефективного очищення внутрішніх стінок димохідних труб від сажі, смоли та інших відкладень. Підходить для чищення димоходів будь-якого типу — як цегляних, так і з нержавіючої сталі. Щітка виготовлена ​​з високоякісного пластику, ворс має овальний перетин 1,8 х 2,4 мм, який затиснутий між чотирма оцинкованими прутами діаметром 3 мм. На одному кінці щітка має різьбу М12, на іншому – кільце для кріплення троса або мотузки. Щітка може використовуватися як із гнучкими ручками, так і у варіанті з гирею.</p>]]></description_ua>
-        <param name="Матеріал">пластик</param>
-        <param name="Діаметр, мм">130</param>
-        <param name="Довжина, мм">170</param>
-        <param name="Вага, г">120</param>
-        <param name="Країна-виробник">Україна</param>
-      </offer>
       <offer id="121" available="true">
         <url>https://savent.ua/shchitky-dlia-chyshchennia-dymokhodiv-ta-teploobminnykiv/shchitka-plastykova-dlia-chyshchennia-dymokhodu-ecodym-140-mm/</url>
         <price>142</price>
@@ -1310,41 +1248,6 @@
         <param name="Діаметр, мм">100</param>
         <param name="Довжина, мм">165</param>
         <param name="Вага, г">205</param>
-        <param name="Товщина сталі, мм">0,55</param>
-      </offer>
-      <offer id="14" available="true">
-        <url>https://savent.ua/shchitky-dlia-chyshchennia-dymokhodiv-ta-teploobminnykiv/shchitka-metaleva-dlia-chyshchennia-dymokhodu-savent-110-mm/</url>
-        <price>216</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/14/s_1_img_0056_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_2_img_0053_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_3_img_0057_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_4_img_0059_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_5_img_0060_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_6_img_4085_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_7_img_0123_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_9_shchitka.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/s_8_metal.png</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/1_img_0056_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/2_img_0053_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/3_img_0057_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/4_img_0059_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/5_img_0060_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/6_img_4085_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/7_img_0123_copy.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/9_shchitka.webp?v=1794643141</picture>
-        <picture>https://savent.ua/upload/catalog/100/14/8_metal.webp?v=1794643141</picture>
-        <vendor>Savent</vendor>
-        <vendorCode>96313</vendorCode>
-        <name>Щітка металева для чищення димоходу Savent 110 мм</name>
-        <name_ua>Щітка металева для чищення димоходу Savent 110 мм</name_ua>
-        <description><![CDATA[<p style="text-align: justify;">   В ході експлуатації твердопаливних котлів, камінів і печей поверхня димоходу та камери згорання покривається сажею, смолою та іншими відкладеннями. Це призводить до зменшення тяги і ККД опалювальних приладів, займання сажі та проникнення в приміщення чадного газу. Періодична перевірка тяги, ступеня забрудненості і регулярне чищення димоходу допоможе уникнути виникнення вищеописаних проблем.</p><p style="text-align: justify;">  <strong> Металева щітка для чищення димоходу Savent 110 мм</strong> з легкістю очистить стінки димохідних труб від сажі, смол та інших відкладень. Виготовлена з високоякісної сталі. Щетина щітки виконана з пружинного дроту загартованого в маслі діаметром 0,55 мм, який затиснутий між чотирма оцинкованими прутами діаметром 3,8 мм. На одному кінці щітка має різьбу М12, на іншому – кільце для кріплення тросу або мотузки.</p><p style="text-align: justify;">   Завдяки міцній і гнучкій конструкції, за допомогою металевої щітки можна швидко і якісно виконати чистку будь-яких димових каналів, за винятком димоходів з нержавіючої сталі. Щоб уникнути пошкодження нержавіючого димоходу, рекомендуємо проводити чистку таких типів димоходів пластиковою щіткою.</p>]]></description>
-        <description_ua><![CDATA[<p style="text-align: justify;">   В ході експлуатації твердопаливних котлів, камінів і печей поверхня димоходу та камери згорання покривається сажею, смолою та іншими відкладеннями. Це призводить до зменшення тяги і ККД опалювальних приладів, займання сажі та проникнення в приміщення чадного газу. Періодична перевірка тяги, ступеня забрудненості і регулярне чищення димоходу допоможе уникнути виникнення вищеописаних проблем.</p><p style="text-align: justify;">  <strong> Металева щітка для чищення димоходу Savent 110 мм</strong> з легкістю очистить стінки димохідних труб від сажі, смол та інших відкладень. Виготовлена з високоякісної сталі. Щетина щітки виконана з пружинного дроту загартованого в маслі діаметром 0,55 мм, який затиснутий між чотирма оцинкованими прутами діаметром 3,8 мм. На одному кінці щітка має різьбу М12, на іншому – кільце для кріплення тросу або мотузки.</p><p style="text-align: justify;">   Завдяки міцній і гнучкій конструкції, за допомогою металевої щітки можна швидко і якісно виконати чистку будь-яких димових каналів, за винятком димоходів з нержавіючої сталі. Щоб уникнути пошкодження нержавіючого димоходу, рекомендуємо проводити чистку таких типів димоходів пластиковою щіткою.</p>]]></description_ua>
-        <param name="Матеріал">метал</param>
-        <param name="Діаметр, мм">110</param>
-        <param name="Довжина, мм">165</param>
-        <param name="Вага, г">214</param>
         <param name="Товщина сталі, мм">0,55</param>
       </offer>
       <offer id="15" available="true">
@@ -1660,41 +1563,6 @@
         <param name="Діаметр, мм">220</param>
         <param name="Довжина, мм">165</param>
         <param name="Вага, г">308</param>
-        <param name="Товщина сталі, мм">0,55</param>
-      </offer>
-      <offer id="23" available="true">
-        <url>https://savent.ua/shchitky-dlia-chyshchennia-dymokhodiv-ta-teploobminnykiv/shchitka-metaleva-dlia-chyshchennia-dymokhodu-savent-250-mm/</url>
-        <price>330</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/23/s_1_img_0108_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_2_img_0109_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_3_img_0110_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_4_img_0112_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_5_img_0115_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_6_img_4085_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_7_img_0135_copy.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_8_metal.png</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/s_9_shchitka.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/1_img_0108_copy.webp?v=1794643148</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/2_img_0109_copy.webp?v=1794643148</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/3_img_0110_copy.webp?v=1794643149</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/4_img_0112_copy.webp?v=1794643149</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/5_img_0115_copy.webp?v=1794643149</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/6_img_4085_copy.webp?v=1794643149</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/7_img_0135_copy.webp?v=1794643149</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/8_metal.webp?v=1794643150</picture>
-        <picture>https://savent.ua/upload/catalog/100/23/9_shchitka.webp?v=1794643150</picture>
-        <vendor>Savent</vendor>
-        <vendorCode>96322</vendorCode>
-        <name>Щітка металева для чищення димоходу Savent 250 мм</name>
-        <name_ua>Щітка металева для чищення димоходу Savent 250 мм</name_ua>
-        <description><![CDATA[<p style="text-align: justify;">   В ході експлуатації твердопаливних котлів, камінів і печей поверхня димоходу та камери згорання покривається сажею, смолою та іншими відкладеннями. Це призводить до зменшення тяги і ККД опалювальних приладів, займання сажі та проникнення в приміщення чадного газу. Періодична перевірка тяги, ступеня забрудненості і регулярне чищення димоходу допоможе уникнути виникнення вищеописаних проблем.</p><p style="text-align: justify;">  <strong> Металева щітка для чищення димоходу Savent 250 мм</strong> з легкістю очистить стінки димохідних труб від сажі, смол та інших відкладень. Виготовлена з високоякісної сталі. Щетина щітки виконана з пружинного дроту загартованого в маслі діаметром 0,55 мм, який затиснутий між чотирма оцинкованими прутами діаметром 3,8 мм. На одному кінці щітка має різьбу М12, на іншому – кільце для кріплення тросу або мотузки.</p><p style="text-align: justify;">   Завдяки міцній і гнучкій конструкції, за допомогою металевої щітки можна швидко і якісно виконати чистку будь-яких димових каналів, за винятком димоходів з нержавіючої сталі. Щоб уникнути пошкодження нержавіючого димоходу, рекомендуємо проводити чистку таких типів димоходів пластиковою щіткою.</p>]]></description>
-        <description_ua><![CDATA[<p style="text-align: justify;">   В ході експлуатації твердопаливних котлів, камінів і печей поверхня димоходу та камери згорання покривається сажею, смолою та іншими відкладеннями. Це призводить до зменшення тяги і ККД опалювальних приладів, займання сажі та проникнення в приміщення чадного газу. Періодична перевірка тяги, ступеня забрудненості і регулярне чищення димоходу допоможе уникнути виникнення вищеописаних проблем.</p><p style="text-align: justify;">  <strong> Металева щітка для чищення димоходу Savent 250 мм</strong> з легкістю очистить стінки димохідних труб від сажі, смол та інших відкладень. Виготовлена з високоякісної сталі. Щетина щітки виконана з пружинного дроту загартованого в маслі діаметром 0,55 мм, який затиснутий між чотирма оцинкованими прутами діаметром 3,8 мм. На одному кінці щітка має різьбу М12, на іншому – кільце для кріплення тросу або мотузки.</p><p style="text-align: justify;">   Завдяки міцній і гнучкій конструкції, за допомогою металевої щітки можна швидко і якісно виконати чистку будь-яких димових каналів, за винятком димоходів з нержавіючої сталі. Щоб уникнути пошкодження нержавіючого димоходу, рекомендуємо проводити чистку таких типів димоходів пластиковою щіткою.</p>]]></description_ua>
-        <param name="Матеріал">метал</param>
-        <param name="Діаметр, мм">250</param>
-        <param name="Довжина, мм">165</param>
-        <param name="Вага, г">361</param>
         <param name="Товщина сталі, мм">0,55</param>
       </offer>
       <offer id="24" available="true">
@@ -2514,29 +2382,6 @@
         <param name="Матеріал">сталь</param>
         <param name="Довжина, м">10</param>
         <param name="Вага, г">1000</param>
-        <param name="Товщина сталі, мм">3,8</param>
-        <param name="Країна-виробник">Україна</param>
-      </offer>
-      <offer id="67" available="true">
-        <url>https://savent.ua/ghnuchki-ruchky-dlia-chyshchennia/drit-dlia-chyshchennia-dymokhodu-ecodym-12-m/</url>
-        <price>352</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>3</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/67/s_sava1468_12_i.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/67/s_sava6176_i.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/67/s_sava5621_i.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/67/sava1468_12_i.webp?v=1794643227</picture>
-        <picture>https://savent.ua/upload/catalog/100/67/sava6176_i.webp?v=1794643227</picture>
-        <picture>https://savent.ua/upload/catalog/100/67/sava5621_i.webp?v=1794643228</picture>
-        <vendor>Savent</vendor>
-        <vendorCode>111941</vendorCode>
-        <name>Дріт для чищення димоходу Ecodym 12 м</name>
-        <name_ua>Дріт для чищення димоходу Ecodym 12 м</name_ua>
-        <description><![CDATA[<p style="text-align: justify;">   <strong>Дріт сталевий оцинкований для чищення димоходу довжиною 12 метрів</strong> призначений для механічного чищення димохідних труб, вентиляційних каналів, каналізації. Виготовлений з пружинної оцинкованої сталі та має діаметр 3,8 мм. На одному кінці дріт має внутрішню різьбу М12, а на іншому – кільце для зручності тримання.</p><p style="text-align: justify;">   Завдяки гнучкості та пружності дроту ви зможете швидко і ефективно видалити сажу та інші відкладення в димоході. Для цього вам потрібно з’єднати його з металевою чи пластиковою щіткою для чищення димоходу, яка має зовнішню різьбу М12.</p><p style="text-align: justify;">   Дріт виготовляється довжиною 6, 8, 10 і 12 метрів.</p>]]></description>
-        <description_ua><![CDATA[<p style="text-align: justify;">   <strong>Дріт сталевий оцинкований для чищення димоходу довжиною 12 метрів</strong> призначений для механічного чищення димохідних труб, вентиляційних каналів, каналізації. Виготовлений з пружинної оцинкованої сталі та має діаметр 3,8 мм. На одному кінці дріт має внутрішню різьбу М12, а на іншому – кільце для зручності тримання.</p><p style="text-align: justify;">   Завдяки гнучкості та пружності дроту ви зможете швидко і ефективно видалити сажу та інші відкладення в димоході. Для цього вам потрібно з’єднати його з металевою чи пластиковою щіткою для чищення димоходу, яка має зовнішню різьбу М12.</p><p style="text-align: justify;">   Дріт виготовляється довжиною 6, 8, 10 і 12 метрів.</p>]]></description_ua>
-        <param name="Матеріал">сталь</param>
-        <param name="Довжина, м">12</param>
-        <param name="Вага, г">1200</param>
         <param name="Товщина сталі, мм">3,8</param>
         <param name="Країна-виробник">Україна</param>
       </offer>
@@ -3603,46 +3448,6 @@
         <param name="Матеріал">нейлон</param>
         <param name="Діаметр, мм">45012</param>
         <param name="Довжина, м">5</param>
-        <param name="Країна-виробник">Україна</param>
-      </offer>
-      <offer id="91" available="true">
-        <url>https://savent.ua/rotorna-chystka-dymokhodiv/rotornyi-nabir-dlia-chyshchennia-dymokhodiv-ecodym-turbo-shchitka-1-m-x-7-sht/</url>
-        <price>2770</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>4</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_001.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_002.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_003.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_004.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_005.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_006.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_007.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_008.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_009.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_010.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_011.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/s_ecodym_turbo_012.jpg</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_001.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_002.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_003.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_004.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_005.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_006.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_007.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_008.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_009.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_010.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_011.webp?v=1794643263</picture>
-        <picture>https://savent.ua/upload/catalog/100/91/ecodym_turbo_012.webp?v=1794643263</picture>
-        <vendor>Savent</vendor>
-        <vendorCode>104673</vendorCode>
-        <name>Ecodym Турбо-Щітка 7 м роторний набір для чищення димоходів</name>
-        <name_ua>Ecodym Турбо-Щітка 7 м роторний набір для чищення димоходів</name_ua>
-        <description><![CDATA[<p style="text-align: justify;">  <strong> Роторний набір для чищення димоходів Ecodym Турбо-Щітка 7 м</strong> призначений для професійного та побутового використання. Пристрій забезпечує механізоване очищення внутрішніх поверхонь димових каналів за допомогою електроінструменту (дриль, шуруповерт).</p><p style="text-align: center;"><strong>Переваги наборуEcodym Турбо-Щітка:</strong></p><ul><li style="text-align: justify;">нейлонова щетина щітки виключає механічні пошкодження стінок димохідної труби;</li><li style="text-align: justify;">гнучкі нейлонові штанги надійно фіксуються між собою та адаптером під електроінструмент;</li><li style="text-align: justify;">сумісний з димоходами діаметром від 120 до 450 мм;</li><li style="text-align: justify;">дозволяє виконувати очищення як з верхнього, так і з нижнього боку;</li><li style="text-align: justify;">ефективний для димоходів складної геометрії та важкодоступних зон;</li><li style="text-align: justify;">максимальна робоча висота – 12 метрів.</li></ul><p style="text-align: center;"><strong>В комплекті:</strong></p><ul><li style="text-align: justify;">гнучка нейлонова ручка діаметром 12 мм і довжиною 1 метр – 7 шт;</li><li style="text-align: justify;">щітка діаметром 450 мм з нейлоновою щетиною;</li><li style="text-align: justify;">адаптер для дрилі; </li><li style="text-align: justify;">ключ шестигранний; </li><li style="text-align: justify;">інструкція.</li></ul>]]></description>
-        <description_ua><![CDATA[<p style="text-align: justify;">  <strong> Роторний набір для чищення димоходів Ecodym Турбо-Щітка 7 м</strong> призначений для професійного та побутового використання. Пристрій забезпечує механізоване очищення внутрішніх поверхонь димових каналів за допомогою електроінструменту (дриль, шуруповерт).</p><p style="text-align: center;"><strong>Переваги наборуEcodym Турбо-Щітка:</strong></p><ul><li style="text-align: justify;">нейлонова щетина щітки виключає механічні пошкодження стінок димохідної труби;</li><li style="text-align: justify;">гнучкі нейлонові штанги надійно фіксуються між собою та адаптером під електроінструмент;</li><li style="text-align: justify;">сумісний з димоходами діаметром від 120 до 450 мм;</li><li style="text-align: justify;">дозволяє виконувати очищення як з верхнього, так і з нижнього боку;</li><li style="text-align: justify;">ефективний для димоходів складної геометрії та важкодоступних зон;</li><li style="text-align: justify;">максимальна робоча висота – 12 метрів.</li></ul><p style="text-align: center;"><strong>В комплекті:</strong></p><ul><li style="text-align: justify;">гнучка нейлонова ручка діаметром 12 мм і довжиною 1 метр – 7 шт;</li><li style="text-align: justify;">щітка діаметром 450 мм з нейлоновою щетиною;</li><li style="text-align: justify;">адаптер для дрилі; </li><li style="text-align: justify;">ключ шестигранний; </li><li style="text-align: justify;">інструкція.</li></ul>]]></description_ua>
-        <param name="Матеріал">нейлон</param>
-        <param name="Діаметр, мм">45012</param>
-        <param name="Довжина, м">7</param>
         <param name="Країна-виробник">Україна</param>
       </offer>
       <offer id="92" available="true">
