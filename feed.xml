@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 06:12">
+<yml_catalog date="2026-11-26 17:59">
   <shop>
     <name>Savent</name>
     <company>Savent</company>
@@ -2320,7 +2320,7 @@
         <price>295</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
-        <picture>https://savent.ua/upload/catalog/100/33/merchant_original_q_1773_695fd289b15bfef6.jpg</picture>
+        <picture>https://savent.ua/upload/catalog/100/33/s_q_1773_695fd289b15bfef6.jpg</picture>
         <picture>https://savent.ua/upload/catalog/100/33/q_1773_695fd289b15bfef6.webp?v=1794643157</picture>
         <vendor>Savent</vendor>
         <vendorCode>96299</vendorCode>
